@@ -1,6 +1,6 @@
 # Datathon with Online Advertisement
 
-## Modelling
+### Modelling
 There are mainly two unique values to the company. 
 1. The models can break down the root cause of the problem by country, industry, and cluster. 
 2. The model can further provide the actionable data by automatically identifying the best performing client and the average client
