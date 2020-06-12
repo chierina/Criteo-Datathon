@@ -13,4 +13,5 @@ We believe that it is a valuable solution for the company, because it can radica
 \
 ### Some Visualization
 ![Cohort Analysi](Cohort-Analysis.png) \
+\
 ![Survival Curve](Survival-Curve.png)
