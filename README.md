@@ -12,5 +12,5 @@ Since the result of clustering is 98% silhouette score, the score which represen
 We believe that it is a valuable solution for the company, because it can radically reduce the time of analyzing and identifying the problem by the automation, instead of using visualization tools or excel, and quickly adopt the strategies at granular level which are based on decent logic supported by data.
 \
 ### Some Visualization
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
+![Cohort Analysi](Cohort-Analysis.png) \
+![Survival Curve](Survival-Curve.png)
