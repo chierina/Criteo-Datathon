@@ -9,8 +9,8 @@ the differences between the two, such as spend by environment, device, criteo pr
 \
 This idea is based on a hypothesis that the more similar the clients are, the more related their strategies can be. \
 Since the result of clustering is 98% silhouette score, the score which represents the similarity within each cluster, we can conclude that the clients can benchmark the best performing client in terms of tenure and can follow the same strategy. \
-We believe that it is a valuable solution for the company, because it can radically reduce the time of analyzing and identifying the problem by the automation, instead of using visualization tools or excel, and quickly adopt the strategies at granular level which are based on decent logic supported by data.
-\
+We believe that it is a valuable solution for the company, because it can radically reduce the time of analyzing and identifying the problem by the automation, instead of using visualization tools or excel, and quickly adopt the strategies at granular level which are supported by data.
+
 ### Some Visualization
 ![Cohort Analysi](Cohort-Analysis.png) \
 \
