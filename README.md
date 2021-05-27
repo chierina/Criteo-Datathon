@@ -1,7 +1,7 @@
 # Datathon with Online Advertisement
 
 ### Modelling
-There are mainly two unique values to the company. 
+There are mainly 2 values of the solution to the company. 
 1. The models can break down the root cause of the problem by country, industry, and cluster. 
 2. The model can further provide the actionable data by automatically identifying the best performing client and the average client
 (a client closest to the cluster centroid) within the cluster in terms of tenure, and calculating all
